@@ -1,2 +1,1 @@
-# crudpraktikumlanjut
-Web
+# crudpraktikum
